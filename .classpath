@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/Users/madsleejensen/Downloads/TooTallNate-Java-WebSocket-1be3bcf/dist/WebSocket.jar"/>
+	<classpathentry kind="lib" path="/Users/madsleejensen/Downloads/benkay-java-socket.io.client-78f1076/src"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
